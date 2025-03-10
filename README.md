@@ -43,6 +43,14 @@ Deep Learning at Kyung Hee University (KHU)
 
 ## Topics
 
+### conda, Jupyter
+- [conda 명령어 모음 (Cheatsheet)](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
+- [Anaconda 설치 및 Jupyter Notebook 사용법 (45분)](https://www.youtube.com/watch?v=dJfq-eCi7KI)
+- [IPython, Jupyter Notebook, Jupyter Lab, Google Colab, Kaggle Notebook 설명 (25분)](https://www.youtube.com/watch?v=5pf0_bpNbkw)
+- [CLI (Coomand Line Interface)](https://www.youtube.com/watch?v=hNdAQQeqkYU)
+- [Directory & Terminal](https://www.youtube.com/watch?v=6z7FVYXnk3E)
+- [POSIX CLI](https://opentutorials.org/module/3747)
+
 ### Entropy
 - [Concepts in Thermal Physics](https://www.amazon.com/Concepts-Thermal-Physics-Stephen-Blundell/dp/0199562105)
 - [A Gentle Introduction to Cross-Entropy for Machine Learning](https://machinelearningmastery.com/cross-entropy-for-machine-learning/)
