@@ -57,6 +57,10 @@ Deep Learning at Kyung Hee University (KHU)
 - [Directory & Terminal](https://www.youtube.com/watch?v=6z7FVYXnk3E)
 - [POSIX CLI](https://opentutorials.org/module/3747)
 
+### About Jupyter Notebooks
+- [I don't like notebooks - Joel Grus](https://www.youtube.com/watch?v=7jiPeIFXb6U)
+- [I Like Notebooks - Jeremy Howard](https://www.youtube.com/watch?v=9Q6sLbz37gk)
+
 ### Entropy
 - [Concepts in Thermal Physics](https://www.amazon.com/Concepts-Thermal-Physics-Stephen-Blundell/dp/0199562105)
 - [A Gentle Introduction to Cross-Entropy for Machine Learning](https://machinelearningmastery.com/cross-entropy-for-machine-learning/)
