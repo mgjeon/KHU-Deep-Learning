@@ -44,6 +44,11 @@ Deep Learning at Kyung Hee University (KHU)
 
 ## Topics
 
+### Paper
+- [NASA/ADS](https://ui.adsabs.harvard.edu/)
+- [Google Scholar](https://scholar.google.com/)
+- [Semantic Scholar](https://www.semanticscholar.org/)
+
 ### conda, Jupyter
 - [conda 명령어 모음 (Cheatsheet)](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
 - [Anaconda 설치 및 Jupyter Notebook 사용법 (45분)](https://www.youtube.com/watch?v=dJfq-eCi7KI)
