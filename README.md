@@ -49,6 +49,11 @@ Deep Learning at Kyung Hee University (KHU)
 - [Google Scholar](https://scholar.google.com/)
 - [Semantic Scholar](https://www.semanticscholar.org/)
 
+## General computer
+- [생활코딩](https://opentutorials.org/course/1)
+- [Havard CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+- [MIT The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
 ### conda, Jupyter
 - [conda 명령어 모음 (Cheatsheet)](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
 - [Anaconda 설치 및 Jupyter Notebook 사용법 (45분)](https://www.youtube.com/watch?v=dJfq-eCi7KI)
