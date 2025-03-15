@@ -5,12 +5,9 @@ Deep Learning at Kyung Hee University (KHU)
 - [파이토치 한번에 끝내기 PyTorch Full Tutorial Course](https://www.youtube.com/watch?v=k60oT_8lyFw)
 - [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
-- [Hugging Face Learn](https://huggingface.co/learn)
 
 ## Basics
 - [생활코딩](https://opentutorials.org/course/1)
 - [Jupyter Notebook Complete Beginner Guide - From Jupyter to Jupyterlab, Google Colab and Kaggle!](https://www.youtube.com/watch?v=5pf0_bpNbkw)
-- [Scientific Computing in Python: Introduction to NumPy and Matplotlib](https://sebastianraschka.com/blog/2020/numpy-intro.html)
-- [Python for Astronomers](https://prappleizer.github.io/)
 
 ## Additional References: [Click here](refs.md)
