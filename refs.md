@@ -9,6 +9,7 @@
 - [Practical Deep Learning](https://course.fast.ai/)
 - [CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/index.html)
 - [Teaching - Roger Grosse](https://www.cs.toronto.edu/~rgrosse/teaching.html)
+- [Applied Deep Learning - Maziar Raissi](https://github.com/maziarraissi/Applied-Deep-Learning)
 - [Deep Learning - iAI KAIST](https://iailab.kaist.ac.kr/teaching/deep-learning)
 - [파이토치 PyTorch - 이수안컴퓨터연구소](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEEIC4-KQIchiPda_EjxX61r)
 
