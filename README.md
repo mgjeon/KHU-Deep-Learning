@@ -8,8 +8,8 @@ Deep Learning at Kyung Hee University (KHU)
 - [Dive into Deep Learning](https://d2l.ai)
 
 ## Basics
-- [생활코딩](https://opentutorials.org/course/1)
 - [Jupyter Notebook, JupyterLab, Google Colab and Kaggle Notebook](https://www.youtube.com/watch?v=5pf0_bpNbkw)
 - [Jupyter Notebook in VS Code](https://www.youtube.com/watch?v=suAkMeWJ1yE)
+- [생활코딩](https://opentutorials.org/course/1)
 
 ## Additional References: [Click here](refs.md)
