@@ -5,7 +5,7 @@ Deep Learning at Kyung Hee University (KHU)
 - [파이토치 한번에 끝내기 - 이수안컴퓨터연구소](https://www.youtube.com/watch?v=k60oT_8lyFw)
 - [Deep Learning Fundamentals - Sebastian Raschka](https://lightning.ai/courses/deep-learning-fundamentals/)
 - [Neural Networks / Deep Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
-- [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+- [Dive into Deep Learning](https://d2l.ai)
 
 ## Basics
 - [생활코딩](https://opentutorials.org/course/1)
