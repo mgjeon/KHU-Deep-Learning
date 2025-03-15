@@ -4,6 +4,7 @@ Deep Learning at Kyung Hee University (KHU)
 ## Deep Learning
 - [파이토치 한번에 끝내기 PyTorch Full Tutorial Course](https://www.youtube.com/watch?v=k60oT_8lyFw)
 - [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
+- [Neural Networks / Deep Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1)
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
 ## Basics
