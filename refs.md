@@ -26,6 +26,9 @@
 - [Hugging Face Learn](https://huggingface.co/learn)
 - [Kaggle Learn](https://www.kaggle.com/learn)
 
+## AutoML
+- [AutoGloun](https://auto.gluon.ai/stable/index.html)
+ 
 ## Latest information
 - [Papers With Code](https://paperswithcode.com/)
 
