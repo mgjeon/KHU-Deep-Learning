@@ -7,7 +7,7 @@ Deep Learning at Kyung Hee University (KHU)
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
 ## Basics
-- [생활코딩](https://opentutorials.org/course/1)
 - [Jupyter Notebook Complete Beginner Guide - From Jupyter to Jupyterlab, Google Colab and Kaggle!](https://www.youtube.com/watch?v=5pf0_bpNbkw)
+- [생활코딩](https://opentutorials.org/course/1)
 
 ## Additional References: [Click here](refs.md)
