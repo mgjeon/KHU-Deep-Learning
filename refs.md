@@ -3,6 +3,7 @@
 - [Probabilistic Machine Learning](https://probml.github.io/pml-book/)
 - [Dive into Deep Learning](https://d2l.ai/)
 - [Deep Learning](https://www.deeplearningbook.org/)
+- [Machine Learning with PyTorch and Scikit-Learn](https://github.com/rasbt/machine-learning-book)
 
 ## General DL - Lecture
 - [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
