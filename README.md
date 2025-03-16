@@ -1,5 +1,5 @@
 # 우주탐사 인공지능 프로젝트 (경희대학교)
-Deep Learning at Kyung Hee University (KHU)
+Deep Learning (DL) at Kyung Hee University (KHU)
 
 ## Deep Learning
 - [파이토치 한번에 끝내기 - 이수안컴퓨터연구소](https://www.youtube.com/watch?v=k60oT_8lyFw)
