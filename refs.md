@@ -9,10 +9,10 @@
 - [Deep Learning Fundamentals](https://lightning.ai/courses/deep-learning-fundamentals/)
 - [Practical Deep Learning](https://course.fast.ai/)
 - [CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/index.html)
-- [Teaching - Roger Grosse](https://www.cs.toronto.edu/~rgrosse/teaching.html)
+- [MIT Deep Learning 6.S191](https://introtodeeplearning.com/)
 - [Applied Deep Learning - Maziar Raissi](https://github.com/maziarraissi/Applied-Deep-Learning)
+- [Teaching - Roger Grosse](https://www.cs.toronto.edu/~rgrosse/teaching.html)
 - [Deep Learning - iAI KAIST](https://iailab.kaist.ac.kr/teaching/deep-learning)
-- [파이토치 PyTorch - 이수안컴퓨터연구소](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEEIC4-KQIchiPda_EjxX61r)
 
 ## General DL - Youtube
 - [Neural networks - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
@@ -28,12 +28,6 @@
 - [Hugging Face Learn](https://huggingface.co/learn)
 - [Kaggle Learn](https://www.kaggle.com/learn)
 
-## AutoML
-- [AutoGloun](https://auto.gluon.ai/stable/index.html)
- 
-## Latest information
-- [Papers With Code](https://paperswithcode.com/)
-
 ## Machine learning for astronomy & solar physics
 - [Astronomia ex machina: a history, primer and outlook on neural networks in astronomy](https://doi.org/10.1098/rsos.221454)
 - [Machine learning in solar physics](https://doi.org/10.1007/s41116-023-00038-x)
@@ -46,12 +40,15 @@
 - [Scientific Computing in Python: Introduction to NumPy and Matplotlib](https://sebastianraschka.com/blog/2020/numpy-intro.html)
 - [Python for Astronomers](https://prappleizer.github.io/)
 
+
+
+
+
 ## Topics
 
 ### 개발환경
 
 #### General computer
-- [생활코딩](https://opentutorials.org/course/1)
 - [생활코딩 - GIT](https://opentutorials.org/course/3838)
 - [생활코딩 - POSIX CLI](https://opentutorials.org/module/3747)
 - [생활코딩 - SSH](https://opentutorials.org/module/432/3738)
@@ -61,12 +58,18 @@
 
 #### conda, Jupyter
 - [conda 명령어 모음 (Cheatsheet)](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
-- [Anaconda 설치 및 Jupyter Notebook 사용법 (45분)](https://www.youtube.com/watch?v=dJfq-eCi7KI)
-- [IPython, Jupyter Notebook, Jupyter Lab, Google Colab, Kaggle Notebook 설명 (25분)](https://www.youtube.com/watch?v=5pf0_bpNbkw)
+- [Anaconda 설치 및 Jupyter Notebook 사용법](https://www.youtube.com/watch?v=dJfq-eCi7KI)
+- [Jupyter Notebook, JupyterLab, Google Colab and Kaggle Notebook](https://www.youtube.com/watch?v=5pf0_bpNbkw)
 
 ##### About Jupyter Notebooks
 - [I don't like notebooks - Joel Grus](https://www.youtube.com/watch?v=7jiPeIFXb6U)
 - [I Like Notebooks - Jeremy Howard](https://www.youtube.com/watch?v=9Q6sLbz37gk)
+
+### AutoML
+- [AutoGloun](https://auto.gluon.ai/stable/index.html)
+ 
+### Latest information
+- [Papers With Code](https://paperswithcode.com/)
 
 ### Computer Science
 - [Havard CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
